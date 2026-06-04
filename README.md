@@ -109,10 +109,3 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
----
-
-## Author
-
-Tukka Atef
-
-Computer Science Student
